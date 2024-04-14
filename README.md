@@ -41,16 +41,18 @@ Etape pas à pas pour construction
 
 Site de reservation d''évènement stack MERN / TypeScript, TailWind, Stripe
 
-1. npx create-next-app@latest
+1. npm create-next-app@latest
    Installation TypeScript
    Tailwind CSS
    App Router
 
 Refus de ESLint et src/ directory et customisation import alias
 
-2. npx shadcn-ui@latest init
-Choisir style
-Utilisation de variable CSS pour couleur
+2. npm shadcn-ui@latest init
+   Choisir style
+   Utilisation de variable CSS pour couleur
+
+3. npm install uploadthing @uploadthing/react
 
 Extension VS utile:
 -> Tailwind CSS IntelliSense
