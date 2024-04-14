@@ -57,3 +57,7 @@ Refus de ESLint et src/ directory et customisation import alias
 Extension VS utile:
 -> Tailwind CSS IntelliSense
 -> Inline Fold
+
+4. npm install @clerk/nextjs
+   Nécéssité de créer un compte et personnaliser l'appli sur clerck
+
