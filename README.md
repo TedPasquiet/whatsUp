@@ -51,6 +51,12 @@ Refus de ESLint et src/ directory et customisation import alias
 2. npm shadcn-ui@latest init
    Choisir style
    Utilisation de variable CSS pour couleur
+   => Ensuite se rendre sur shad et choisir composant
+   => Liste composants présent
+
+   - npx shadcn-ui@latest add sheet
+   - npx shadcn-ui@latest add separator
+
 
 3. npm install uploadthing @uploadthing/react
 
@@ -60,4 +66,3 @@ Extension VS utile:
 
 4. npm install @clerk/nextjs
    Nécéssité de créer un compte et personnaliser l'appli sur clerck
-
