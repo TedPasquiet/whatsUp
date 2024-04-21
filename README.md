@@ -66,3 +66,5 @@ Extension VS utile:
 
 4. npm install @clerk/nextjs
    Nécéssité de créer un compte et personnaliser l'appli sur clerck
+
+5. npm install mongoose mongodb   
